@@ -6,7 +6,7 @@ We will receive the total number of kilos and we need to print "YES" if we can d
 ## Solution
 We just need to know that if we divide an even number into two parts it will give us another even number,  
 and if we divide an odd number it will give us another odd number,  
-however, we must bear in mind that this even number must be greater than two, because \frac{2}{2} = 1 and 1 is not an even number.  
+however, we must bear in mind that this even number must be greater than two, because $\frac{2}{2} = 1$ and 1 is not an even number.  
 So the condition must be something like:
 ~~~ logic
 // ...
